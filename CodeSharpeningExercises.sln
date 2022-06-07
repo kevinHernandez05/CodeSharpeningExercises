@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32002.185
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeSharpeningExercises", "CodeSharpeningExercises\CodeSharpeningExercises.csproj", "{F9F54C60-10B2-475E-ABE0-2F8BB9B209A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeSharpeningExercises.Test", "CodeSharpeningExercises.Test\CodeSharpeningExercises.Test.csproj", "{03236F2B-6230-41BA-A479-D0B53F00D52D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F9F54C60-10B2-475E-ABE0-2F8BB9B209A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9F54C60-10B2-475E-ABE0-2F8BB9B209A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9F54C60-10B2-475E-ABE0-2F8BB9B209A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03236F2B-6230-41BA-A479-D0B53F00D52D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03236F2B-6230-41BA-A479-D0B53F00D52D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03236F2B-6230-41BA-A479-D0B53F00D52D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03236F2B-6230-41BA-A479-D0B53F00D52D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
