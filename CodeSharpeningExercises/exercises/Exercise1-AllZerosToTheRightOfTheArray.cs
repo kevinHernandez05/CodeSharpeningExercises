@@ -25,6 +25,7 @@ namespace CodeSharpeningExercises.exercises
                     break;
                 }
             }
+
             return numbers;
         }
 
